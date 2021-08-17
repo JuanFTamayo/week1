@@ -5,10 +5,10 @@ using System.Text;
 
 namespace week1.Functions.Entities
 {
-   public class TodoEntities:TableEntity
+   public class TodoEntity:TableEntity
     {
         public DateTime CreatedTime { get; set; }
-        public string TaskDrescription { get; set; }
+        public string TaskDescription { get; set; }
         public bool IsCompleted { get; set; }
     }
 }

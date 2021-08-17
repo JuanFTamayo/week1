@@ -1,6 +1,6 @@
 ﻿namespace week1.common.Responses
 {
-    internal class Response
+    public class Response
     {
         public bool IsSuccess { get; set; }
         public string Message { get; set; }

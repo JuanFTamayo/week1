@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week1.common", "week1.common\week1.common.csproj", "{7CEF21A6-2AF5-48A2-8EFE-E521F21F2787}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "week1.common", "week1.common\week1.common.csproj", "{7CEF21A6-2AF5-48A2-8EFE-E521F21F2787}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week1.Functions", "week1.Functions\week1.Functions.csproj", "{74D80DCB-E814-42C2-8659-8C45EE4AD71D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "week1.Functions", "week1.Functions\week1.Functions.csproj", "{74D80DCB-E814-42C2-8659-8C45EE4AD71D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week1.test", "week1.test\week1.test.csproj", "{4F6131C3-6AE6-4BF9-B865-F8E9AC1982FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "week1.test", "week1.test\week1.test.csproj", "{4F6131C3-6AE6-4BF9-B865-F8E9AC1982FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
